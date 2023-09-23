@@ -1,11 +1,10 @@
-{margim:0;
-    padding:0;}
+{ margin 0 ;padding 0 0;}
     .cabeçalho {
-        background-color: #2cb587;
-        color: white
+        background-color: #75baf3;
+        color: white;
         display:flex;
-        justify-contet:space-aroud;
-        padding:24px 0;}
+        justify-content:space-around;
+        padding: 24px 0;}
         
     .cabeçalho-lista-item{
         display: inline-block;
@@ -14,8 +13,8 @@
         font-size: 24px;}
 
         .escola-conteudo{
-            background-color:linear- gradient(#383D58, #00c0eb);
-            color; white;
+            background-color:linear-gradient(#383D58, #00c0eb);
+            color: white;
             display: flex;
         }
 
