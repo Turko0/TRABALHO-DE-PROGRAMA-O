@@ -1,5 +1,5 @@
-{margin:0;
-    padding:0 0}
+*{margin:0;
+    padding:0;}
     .cabeçalho {
         background-color: #2cb587;
         color: white;
@@ -37,7 +37,7 @@
         }
  
         .estudante-imagem{
-         width: 120px;
+         width: 50px;
         }
  
         .estudante-icone{
@@ -50,7 +50,7 @@
      
         .estudante-titulo{
          text-align: center;
-         padding: 50px 0;
+         padding: 25px 0;
         }
  
         .estudante-todos{
@@ -61,4 +61,4 @@
          background-color:black;
          padding: 15px 0;
          text-align:center;
-        }
+        } 
